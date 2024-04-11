@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.4.2
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.4.1...v1.4.2)
+
+### 🩹 Fixes
+
+- Vercel build step sh ([d4a1e72](https://github.com/develit-io/test-vercel-tags/commit/d4a1e72))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.4.1
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.4.0...v1.4.1)
