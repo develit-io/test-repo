@@ -1,0 +1,24 @@
+# Changelog
+
+
+## v0.0.1
+
+
+### 🏡 Chore
+
+- Deps update remove develitesse add devtools ([fe9600a](https://github.com/develit-io/develitesse-nuxt/commit/fe9600a))
+- Update deps ([8336c37](https://github.com/develit-io/develitesse-nuxt/commit/8336c37))
+- Add @nuxt/image module ([bf714b5](https://github.com/develit-io/develitesse-nuxt/commit/bf714b5))
+- Upgrade libs chore: downgrade @antfu eslint to 0.40 feat: add default layout with loading indicator ([0df8b87](https://github.com/develit-io/develitesse-nuxt/commit/0df8b87))
+- Upgrade deps to latest ([56b469f](https://github.com/develit-io/develitesse-nuxt/commit/56b469f))
+- Update deps ([2a0db1d](https://github.com/develit-io/develitesse-nuxt/commit/2a0db1d))
+- Add changelogen ([76a7bde](https://github.com/develit-io/develitesse-nuxt/commit/76a7bde))
+
+### 🤖 CI
+
+- Merge jobs to codechecks in order to speedup ci ([b746a1a](https://github.com/develit-io/develitesse-nuxt/commit/b746a1a))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
