@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.2
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.1...v1.2.2)
+
+### 🤖 CI
+
+- Try to fix deploy script ([6dd4100](https://github.com/develit-io/test-vercel-tags/commit/6dd4100))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.2.1
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.0...v1.2.1)
