@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.3
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.2...v1.2.3)
+
+### 🤖 CI
+
+- Vercel rules log ([1ff3c37](https://github.com/develit-io/test-vercel-tags/commit/1ff3c37))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.2.2
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.1...v1.2.2)
