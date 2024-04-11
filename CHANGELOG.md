@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.1
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.0...v1.2.1)
+
+### 🩹 Fixes
+
+- Lint and CI ([065d94e](https://github.com/develit-io/test-vercel-tags/commit/065d94e))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.2.0
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.1.0...v1.2.0)
