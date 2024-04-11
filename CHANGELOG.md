@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v1.1.0
+
+
+### 🚀 Enhancements
+
+- Add rules ([8f795a2](https://github.com/develit-io/test-vercel-tags/commit/8f795a2))
+- Test ([ba8b707](https://github.com/develit-io/test-vercel-tags/commit/ba8b707))
+- Dev test release ([9eefbeb](https://github.com/develit-io/test-vercel-tags/commit/9eefbeb))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v0.0.1
 
 
