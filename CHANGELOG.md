@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v2.1.0
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v2.0.1...v2.1.0)
+
+### 🚀 Enhancements
+
+- Update vercel rules ([a8aa626](https://github.com/develit-io/test-vercel-tags/commit/a8aa626))
+- Update vercel rules ([4aad558](https://github.com/develit-io/test-vercel-tags/commit/4aad558))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.0.1
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v2.0.0...v2.0.1)
