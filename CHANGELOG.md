@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.6.0
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.5.0...v1.6.0)
+
+### 🚀 Enhancements
+
+- Improve release ci ([78b0d9c](https://github.com/develit-io/test-vercel-tags/commit/78b0d9c))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.5.0
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.4.2...v1.5.0)
