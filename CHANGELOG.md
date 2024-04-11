@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.4.1
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.4.0...v1.4.1)
+
+### 🤖 CI
+
+- Change ignore steps condition to git msg ([078459f](https://github.com/develit-io/test-vercel-tags/commit/078459f))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v1.4.0
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v1.2.3...v1.4.0)
