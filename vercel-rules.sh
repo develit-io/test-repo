@@ -9,5 +9,5 @@ if [[ "$VERCEL_GIT_COMMIT_REF" == "main" && $(git name-rev --name-only --tags HE
   exit 0;
 fi
 
-  echo "✅ - Production build can proceed"
+  echo "✅ - Build can proceed"
   exit 1;
