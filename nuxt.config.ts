@@ -53,8 +53,7 @@ export default defineNuxtConfig({
     },
     storage: {
       cache: {
-        driver: 'fs',
-        base: './.data/cache',
+        driver: 'vercelKV',
       },
     },
   },
