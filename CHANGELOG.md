@@ -1,6 +1,20 @@
 # Changelog
 
 
+## v2.2.0
+
+[compare changes](https://github.com/develit-io/test-vercel-tags/compare/v2.1.0...v2.2.0)
+
+### 🚀 Enhancements
+
+- Release 2 test 1 ([8e27284](https://github.com/develit-io/test-vercel-tags/commit/8e27284))
+- Release 2 test 2 ([8afc1e5](https://github.com/develit-io/test-vercel-tags/commit/8afc1e5))
+- Add test cache api ([35f3418](https://github.com/develit-io/test-vercel-tags/commit/35f3418))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.1.0
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v2.0.1...v2.1.0)
