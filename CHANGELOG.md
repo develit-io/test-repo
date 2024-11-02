@@ -1,6 +1,59 @@
 # Changelog
 
 
+## v2.5.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.5.0)
+
+### 🚀 Enhancements
+
+- Fix release script ([3cd7a70](https://github.com/develit-io/test-repo/commit/3cd7a70))
+
+### 🩹 Fixes
+
+- Lint ([d47886e](https://github.com/develit-io/test-repo/commit/d47886e))
+
+### 🏡 Chore
+
+- **release:** V2.4.0 ([c5e208d](https://github.com/develit-io/test-repo/commit/c5e208d))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
+## v2.4.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.4.0)
+
+### 🚀 Enhancements
+
+- Fix release script ([3cd7a70](https://github.com/develit-io/test-repo/commit/3cd7a70))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
+## v2.3.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.2.0...v2.3.0)
+
+### 🚀 Enhancements
+
+- Use fs as cache storage ([53dc03c](https://github.com/develit-io/test-repo/commit/53dc03c))
+- **cache:** Set vercelKV for cache ([be6695b](https://github.com/develit-io/test-repo/commit/be6695b))
+
+### 🩹 Fixes
+
+- Add storage cache base ([f39d4c5](https://github.com/develit-io/test-repo/commit/f39d4c5))
+
+### 🤖 CI
+
+- Playing with release ([2290e62](https://github.com/develit-io/test-repo/commit/2290e62))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.2.0
 
 [compare changes](https://github.com/develit-io/test-vercel-tags/compare/v2.1.0...v2.2.0)

@@ -1,16 +1,33 @@
-name: Deploy to production
+# name: Deploy to production
+# on:
+#   push:
+#     tags:
+#       - 'v*'
+
+# jobs:
+#   Deploy-Production:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v3
+
+#       - name: Release to production
+#         run: |
+#           git push origin HEAD:main -f
+
+name: Release
 on:
   push:
-    tags:
-      - 'v*'
+    branches:
+      - main
 
 jobs:
-  Deploy-Production:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Release to production
+      - name: Create a release
         run: |
-          git push origin HEAD:main -f
+          npx changelogen@latest gh release

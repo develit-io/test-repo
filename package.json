@@ -1,8 +1,12 @@
 {
   "name": "develitesse-nuxt",
-  "version": "2.2.0",
+  "version": "2.5.0",
   "private": true,
   "packageManager": "pnpm@8.15.5",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:develit-io/test-repo.git"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -15,8 +19,7 @@
     "taze:up": "taze major -I",
     "test": "vitest",
     "cleanup": "nuxt cleanup",
-    "release:bump": "changelogen --bump",
-    "release": "npx changelogen --release --push"
+    "release": "npx changelogen --bump"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
@@ -30,6 +33,7 @@
     "@nuxtjs/color-mode": "^3.3.3",
     "@pinia/nuxt": "^0.5.1",
     "@unocss/nuxt": "^0.58.9",
+    "@vercel/kv": "^2.0.0",
     "@vueuse/nuxt": "^10.9.0",
     "changelogen": "^0.5.5",
     "eslint": "^8.57.0",

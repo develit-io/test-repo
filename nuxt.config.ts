@@ -51,6 +51,11 @@ export default defineNuxtConfig({
         target: 'esnext',
       },
     },
+    storage: {
+      cache: {
+        driver: 'vercelKV',
+      },
+    },
   },
   vite: {
     build: {
