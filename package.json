@@ -19,8 +19,7 @@
     "taze:up": "taze major -I",
     "test": "vitest",
     "cleanup": "nuxt cleanup",
-    "release:bump": "changelogen --bump",
-    "release": "npx changelogen --release --push"
+    "release": "npx changelogen --bump"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
