@@ -1,6 +1,36 @@
 # Changelog
 
 
+## v2.10.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.10.0)
+
+### 🚀 Enhancements
+
+- Fix release script ([3cd7a70](https://github.com/develit-io/test-repo/commit/3cd7a70))
+
+### 🩹 Fixes
+
+- Lint ([d47886e](https://github.com/develit-io/test-repo/commit/d47886e))
+
+### 🏡 Chore
+
+- **release:** V2.4.0 ([c5e208d](https://github.com/develit-io/test-repo/commit/c5e208d))
+- **release:** V2.5.0 ([362dc3a](https://github.com/develit-io/test-repo/commit/362dc3a))
+
+### 🤖 CI
+
+- **release:** Add release push script and update ci ([198bed2](https://github.com/develit-io/test-repo/commit/198bed2))
+- **release:** Fix release ci ([a8c131c](https://github.com/develit-io/test-repo/commit/a8c131c))
+- Fix release ([d538bed](https://github.com/develit-io/test-repo/commit/d538bed))
+- Fix release ([a9e67f3](https://github.com/develit-io/test-repo/commit/a9e67f3))
+- **release:** Fix release ci ([54e1635](https://github.com/develit-io/test-repo/commit/54e1635))
+- Fix release ([66cf962](https://github.com/develit-io/test-repo/commit/66cf962))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.9.0
 
 [compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.9.0)

@@ -25,11 +25,9 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2
-      
-      - name: Install Dependencies
-        run: pnpm install
-      
-      - name: Publish release
-        run: pnpm run release:push
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Create a release
+        run: |
+          npx changelogen@latest gh release --token ${{ secrets.RELEASE_GH_TOKEN }}
