@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v2.5.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.5.0)
+
+### 🚀 Enhancements
+
+- Fix release script ([3cd7a70](https://github.com/develit-io/test-repo/commit/3cd7a70))
+
+### 🩹 Fixes
+
+- Lint ([d47886e](https://github.com/develit-io/test-repo/commit/d47886e))
+
+### 🏡 Chore
+
+- **release:** V2.4.0 ([c5e208d](https://github.com/develit-io/test-repo/commit/c5e208d))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.4.0
 
 [compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.4.0)
