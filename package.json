@@ -3,6 +3,10 @@
   "version": "2.2.0",
   "private": true,
   "packageManager": "pnpm@8.15.5",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:develit-io/test-repo.git"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
