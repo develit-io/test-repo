@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v2.4.0
+
+[compare changes](https://github.com/develit-io/test-repo/compare/v2.3.0...v2.4.0)
+
+### 🚀 Enhancements
+
+- Fix release script ([3cd7a70](https://github.com/develit-io/test-repo/commit/3cd7a70))
+
+### ❤️ Contributors
+
+- Klein Petr ([@kleinpetr](http://github.com/kleinpetr))
+
 ## v2.3.0
 
 [compare changes](https://github.com/develit-io/test-repo/compare/v2.2.0...v2.3.0)
