@@ -7,5 +7,6 @@
 <template>
   <div>
     <NuxtWelcome />
+    change
   </div>
 </template>
