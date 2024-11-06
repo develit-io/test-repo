@@ -1,0 +1,11 @@
+name: New Project
+categories:
+  - infrastructure
+usecases:
+  - wallets
+ecosystem:
+  - ethereum
+description: desc
+product_launch_day: 2024-01-31T23:00:00.000Z
+sunset: true
+id: new-project
